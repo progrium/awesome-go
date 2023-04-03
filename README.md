@@ -121,6 +121,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
   - [JSON](#json)
   - [Logging](#logging)
   - [Machine Learning](#machine-learning)
+  - [MacOS](#mac-os)
   - [Messaging](#messaging)
   - [Microsoft Office](#microsoft-office)
     - [Microsoft Excel](#microsoft-excel)
@@ -1532,6 +1533,14 @@ _Libraries for Machine Learning._
 - [shield](https://github.com/eaigner/shield) - Bayesian text classifier with flexible tokenizers and storage backends for Go.
 - [tfgo](https://github.com/galeone/tfgo) - Easy to use Tensorflow bindings: simplifies the usage of the official Tensorflow Go bindings. Define computational graphs in Go, load and execute models trained in Python.
 - [Varis](https://github.com/Xamber/Varis) - Golang Neural Network.
+
+**[⬆ back to top](#contents)**
+
+## Mac OS
+
+_Libraries for MacOS._
+
+- [macdriver](https://github.com/progrium/macdriver) - APIs and bindings for working with Apple APIs.
 
 **[⬆ back to top](#contents)**
 
